@@ -1,3 +1,3 @@
 # IoP 技術者講座
 
-## はじめに
+[IoPについて](./about-iop.html)
